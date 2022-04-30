@@ -1,5 +1,5 @@
 # Weather Forecast App
-# Introduction to our project(https://weather-forecast-app.vercel.app/):
+# Introduction to our project(https://admiring-curie-322f25.netlify.app/):
 
 This is a project I made during my third month of my Bootcamp (Masai School). It is a weather forecast app that will fetch the weather of any location in the world asked by the user. It will tell current weather report with various little details. It will also provide forecast for the next 7 days. I have also integrated the google maps with this app and it will show the location on the map as well.
 
